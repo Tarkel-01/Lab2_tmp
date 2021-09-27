@@ -1,0 +1,10 @@
+﻿  Task2.cpp
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(88,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(117,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(118,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(124,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(127,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(130,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(33): warning C4172: возвращение адреса локальной или временной переменной : tmp
+C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Task2\Task2.cpp(44): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  Task2.vcxproj -> C:\Users\Дед_инсайд\Desktop\Lab2\Task2\Debug\Task2.exe

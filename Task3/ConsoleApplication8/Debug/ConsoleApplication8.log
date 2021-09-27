@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\Дед_инсайд\source\repos\ConsoleApplication8\ConsoleApplication8\Airplane.h(63,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\Дед_инсайд\source\repos\ConsoleApplication8\Debug\ConsoleApplication8.exe
